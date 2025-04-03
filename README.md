@@ -1,6 +1,6 @@
 # guns.lol Scanner
 
-guns.lol Scanner is a simple tool that checks the availability of usernames on guns.lol and writes the available ones to a file.
+Super simple tool that checks the availability of usernames on guns.lol and writes the available ones to a file.
 
 ![guns.lol Scanner Preview](https://i.imgur.com/wYgKEIj.png)
 
