@@ -17,6 +17,7 @@ guns.lol Scanner is a simple tool that checks the availability of usernames on g
 
 1. Clone the repository or download the script: git clone https://github.com/xnxv/guns.lol.scanner
 2. Install Python if you haven't already.
+3. Install requirements.txt `pip install -r requirements.txt`
 
 ## Usage
 
