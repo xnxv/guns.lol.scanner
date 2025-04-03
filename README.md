@@ -21,7 +21,7 @@ guns.lol Scanner is a simple tool that checks the availability of usernames on g
 ## Usage
 
 1. Ensure `usernames.txt` contains the usernames you want to check, one per line.
-2. Run the script: python guns.lol_scanner.py
+2. Run the `script: python guns.lol_scanner.py`
 3. Check `available_usernames.txt` for the results.
 
 ## Notes
